@@ -1,6 +1,5 @@
-# Hai! Saya Ditta Adelia 👋
 # 💫 About Me:
->Mahasiswa tingkat akhir Informatika yang punya ketertarikan pada UI/UX dan Front-End Development. Selain sibuk mengolah kode di sisi front-end, saya juga aktif mengeksplorasi kreativitas lewat desain grafis. <br><br>Mari bertukar ide! 
+Hai! Saya Ditta Adelia 👋<br>Mahasiswa tingkat akhir Informatika yang punya ketertarikan pada UI/UX dan Front-End Development. Selain sibuk mengolah kode di sisi front-end, saya juga aktif mengeksplorasi kreativitas lewat desain grafis. <br><br>Mari bertukar ide! 
 
 
 ## 🌐 Socials:
